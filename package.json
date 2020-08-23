@@ -1,0 +1,16 @@
+{
+  "name": "date",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parseDate.js",
+  "dependencies": {
+    "date-fns": "^2.15.0",
+    "jest": "^26.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
